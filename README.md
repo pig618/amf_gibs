@@ -38,4 +38,4 @@ We also used the codebase for 2 other related papers, the BibTex of the papers a
   year={2021}
 }
 
-Happy coding and wish you all the best in your research!
+Should you have any questions, please feel free to email me via LZ384 at CORNELL.EDU. Happy coding and wish you all the best in your research!

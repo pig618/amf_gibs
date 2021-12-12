@@ -18,4 +18,24 @@ You are encouraged to directly use the GIBS algorithm code to do your own resear
 
 If you want to replicate the paper mentioned above, please purchase the stock returns data from the Center for Research in Security Prices, LLC (CRSP) database, download the data, and save it as the amf_gibs/00_data/01_securities_data/securities_daily.txt file. Then run all the code files from the beginning all the way to amf_gibs/10_amf_analysis/01_amf_analysis.R.
 
+We also used the codebase for 2 other related papers, the BibTex of the papers are
+
+@article{zhu2021time,
+  title={Time-Invariance Coefficients Tests with the Adaptive Multi-Factor Model},
+  author={Zhu, Liao and Jarrow, Robert A. and Wells, Martin T.},
+  journal={The Quarterly Journal of Finance},
+  volume={11},
+  number={04},
+  pages={2150019},
+  year={2021},
+  publisher={World Scientific Publishing Company and Midwest Finance Association}
+}
+
+@article{jarrow2021low,
+  title={The Low-volatility Anomaly and the Adaptive Multi-Factor Model},
+  author={Jarrow, Robert A. and Murataj, Rinald and Wells, Martin T. and Zhu, Liao},
+  journal={arXiv preprint arXiv:2003.08302},
+  year={2021}
+}
+
 Happy coding and wish you all the best in your research!

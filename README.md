@@ -38,4 +38,6 @@ We also used the codebase for 2 other related papers, the BibTex of the papers a
   year={2021}
 }
 
+All the papers mentioned above have full text available on arxiv, which can be found via the google scholar link: 
+https://scholar.google.com/citations?user=WDX3NZsAAAAJ&hl=en
 Should you have any questions, please feel free to email me via LZ384 at CORNELL.EDU. Happy coding and wish you all the best in your research!
